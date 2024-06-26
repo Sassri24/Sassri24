@@ -22,4 +22,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sassri24&" alt="sassri24" /></p>
 
-![snake gif](https://github.com/Sassri24/Sassri24/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/Sassri24/Sassri24/blob/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
