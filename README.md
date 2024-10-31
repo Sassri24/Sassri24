@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sassri24&label=Profile%20views&color=0e75b6&style=flat" alt="sassri24" /> </p>
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **Selenium** & **TestNG**
 
 - 📫 How to reach me **chamodganegoda@gmail.com**
 
