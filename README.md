@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **chamodganegoda@gmail.com**
  
-- My portfolio: <a href="https://sassri24.github.io/Personal-Portfolio/"> *Click here* </a>
+- My portfolio: <a href="https://sassri24.github.io/Personal-Portfolio/"> **Click here** </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
